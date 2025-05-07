@@ -1,17 +1,20 @@
-<<<<<<< HEAD
-# youtube-clone
-This project is a YouTube Clone built using React.js and various libraries such as React Router and YouTube API to replicate the features of YouTube. The app allows users to watch videos, explore video categories, and interact with the platform.
-=======
-# React + Vite
+Welcome to **YouTube Clone**, a responsive and functional video-sharing web app inspired by the original YouTube! Built with React, this project recreates key features of the YouTube platform — including video playback, recommendations, a dynamic sidebar, and more.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 What It Includes
 
-Currently, two official plugins are available:
+- 📺 Watch video with real-time views, likes, and comments
+- 🎯 Dynamic route navigation using React Router
+- 🎬 Recommended videos based on category
+- 📱 Responsive design with modern styling
+- 🧩 Reusable components structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Technologies Used
 
-## Expanding the ESLint configuration
+- **React** for frontend UI
+- **React Router** for routing
+- **Custom API service** for fetching video, channel, and comment data
+- **CSS Modules / Custom CSS** for styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 6582abd (github-clone)
+
+🙌 Author
+Made with ❤️ by Javid Baghirov
